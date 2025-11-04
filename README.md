@@ -62,4 +62,5 @@ This part involves modifying the algorithm from Part I to add support for **Clas
 To receive a positive evaluation, the following must be submitted:
 
 1. The complete **C++ source code** (hosted on this shared GitHub repository).  
-2. The corresponding **UML documentation** that describes the logical units defined in the source code.
+2. The corresponding **UML documentation** that describes the logical units defined in the source code.  
+3. A **presentation** in which your results are shown.
